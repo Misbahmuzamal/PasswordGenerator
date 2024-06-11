@@ -1,0 +1,35 @@
+.container{
+    height: 300px;
+    width: 500px;
+    background-color: white;
+    margin-top: 50px;
+    padding: 40px;
+}
+.password{
+    width: 350px;
+    height: 40px;
+}
+button{
+    height: 40px;
+    margin-left: 10px;
+    background-color: blue;
+    color:white;
+    border:none;
+}
+.form{
+    margin-top: 20px;
+    
+}
+
+.range{
+    margin-right: 10px;
+}
+.char{
+    margin-left: 15px;
+}
+.num{
+    margin-left: 15px;
+
+}
+
+
